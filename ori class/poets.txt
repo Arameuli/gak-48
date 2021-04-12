@@ -1,0 +1,4 @@
+saxeli1 gvari1 1936 1 -1 nawarmoebi1 janri1 1958 1962
+saxeli2 gvari2 1922 1 -1 nawarmoebi2 janri2 1949 1950
+saxeli3 gvari3 1902 0 1990 nawarmoebi3 janri3 1923 1925
+saxeli4 gvari4 1900 0 1981 nawarmoebi4 janri4 1919 1923

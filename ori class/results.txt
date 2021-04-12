@@ -1,0 +1,29 @@
+
+---------poeti--------
+saxeli: saxeli4	 gvari: gvari4 	 dabadebis tarigi: 1900 	 gardacvlilia,  gardacvalebis tarigi: 1981
+
+-----misi pirveli nawarmoebi-------
+saxeli: nawarmoebi4	 janri: janri4	 sheqmnis tarigi: 1919	 gamocemis tarigi: 1923
+
+________________________________
+---------poeti--------
+saxeli: saxeli3	 gvari: gvari3 	 dabadebis tarigi: 1902 	 gardacvlilia,  gardacvalebis tarigi: 1990
+
+-----misi pirveli nawarmoebi-------
+saxeli: nawarmoebi4	 janri: janri4	 sheqmnis tarigi: 1919	 gamocemis tarigi: 1923
+
+________________________________
+---------poeti--------
+saxeli: saxeli2	 gvari: gvari2 	 dabadebis tarigi: 1922 	 cocxalia 
+
+-----misi pirveli nawarmoebi-------
+saxeli: nawarmoebi4	 janri: janri4	 sheqmnis tarigi: 1919	 gamocemis tarigi: 1923
+
+________________________________
+---------poeti--------
+saxeli: saxeli1	 gvari: gvari1 	 dabadebis tarigi: 1936 	 cocxalia 
+
+-----misi pirveli nawarmoebi-------
+saxeli: nawarmoebi4	 janri: janri4	 sheqmnis tarigi: 1919	 gamocemis tarigi: 1923
+
+________________________________
